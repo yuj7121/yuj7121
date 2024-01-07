@@ -1,7 +1,5 @@
-- Hello, this is @yuj!
-- Currently studying Computer Science at University of Waterloo
-- Interested in creating and visually pleasing websites and fun games
+- Currently studying Computer Science at the University of Waterloo
 - Love learning Java, HTML, and JavaScript
-- I can never seem to have enough of typos in my code
-- Way too interested in everything for my own good
+- Have created animations, websites, and games with my own illustrations and ui design
+- Way too interested in everything for my own good!
 
